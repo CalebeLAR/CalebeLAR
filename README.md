@@ -1,4 +1,4 @@
-### olá, bem vindo ao meu gitHub
+### Olá! Bem vindo ao meu gitHub
 
 **Sobre mim**  
 Morei até meus 23 anos no estado mais ao norte do Brasil. Quando era mais jovem iniciei uma graduação porque era "bom em matemática". No terceiro ano da faculdade paguei disciplina de algorítimos, foi a única prova que gostei do elogio de ter tirado dez! Na pandemia usei o tempo livre para ESTUDAR, algo que era massante nos conteúdos de faculdade, mas que consegui fazer com empolgação aprendendo Python com o professor Guanabara no YouTube, e com o livro do Eric Matthes
