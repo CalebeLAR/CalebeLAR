@@ -3,7 +3,7 @@
 **Sobre mim**  
 Morei até meus 23 anos no estado mais ao norte do Brasil. Quando era mais jovem iniciei uma graduação porque era "bom em matemática". No terceiro ano da faculdade paguei disciplina de algorítimos, foi a única prova que gostei do elogio de ter tirado dez! Na pandemia usei o tempo livre para ESTUDAR, algo que era massante nos conteúdos de faculdade, mas que consegui fazer com empolgação aprendendo Python com o professor Guanabara no YouTube, e com o livro do Eric Matthes
 
-No quarto ano de faculdade eu tomei a decisão de ingressar de vez no mundo da tecnologia. Não iniciei os estudos de programação em uma faculdade, mas comecei dentro de um ambiente com um comprometimento e atenção em ensinar que testemunhei durante um ano e meio dentro da Trybe. Onde pude aprender primeiro, todas essas stacks de tecnologia que estão a baixo.
+No quarto ano de engenharia civil eu tomei a decisão de ingressar de vez no mundo da tecnologia. Não iniciei os estudos de programação em uma faculdade, mas comecei dentro de um ambiente com um comprometimento e atenção em ensinar que testemunhei durante um ano e meio dentro da Trybe. Onde pude aprender primeiro, todas essas stacks de tecnologia que estão a baixo.
 
 ### Linguagens
 
