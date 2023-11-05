@@ -28,7 +28,7 @@ No quarto ano de engenharia civil eu tomei a decisão de ingressar de vez no mun
 </picture> <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=calebeLAR&layout=compact"
-    media="(prefers-color-scheme: dark)"
+    media="(prefers-color-scheme: light)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=calebeLAR&layout=compact&theme=merko"
