@@ -1,13 +1,17 @@
+### OLÁ! BEM VINDO AO MEU GITHUB
+
+
+## sobre mim
 Morei até meus 23 anos no estado mais ao norte do Brasil. Quando era mais jovem iniciei uma graduação porque era "bom em matemática". No terceiro ano da faculdade paguei disciplina de algorítimos, foi a única prova que gostei do elogio de ter tirado dez! Na pandemia usei o tempo livre para ESTUDAR, algo que era massante nos conteúdos de faculdade, mas que consegui fazer com empolgação aprendendo Python com o professor Guanabara no YouTube, e com o livro do Eric Matthes
 
 No quarto ano de engenharia civil eu tomei a decisão de ingressar de vez no mundo que eu já almejava há tempos. Não iniciei os estudos de programação em uma faculdade, mas comecei dentro de um ambiente com um comprometimento e atenção em ensinar que testemunhei durante um ano e meio dentro da Trybe. Onde pude aprender primeiro, todas essas stacks de tecnologia que estão a baixo.
 
-Linguagens  
+### Linguagens    
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&"  logoColor=F7DF1E href="javascript">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&"  logoColor=white href="typescript">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&"  logoColor=blue href="python">
 
-Tecnologias e Ferramentas 
+### Tecnologias
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&"  logoColor=white href="html5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"   href="css3">
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"   href="jest"> 
