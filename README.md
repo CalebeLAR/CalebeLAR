@@ -1,17 +1,18 @@
-### OLÁ! BEM VINDO AO MEU GITHUB
+### olá, bem vindo ao meu gitHub
 
-
-## sobre mim
+**Sobre mim**  
 Morei até meus 23 anos no estado mais ao norte do Brasil. Quando era mais jovem iniciei uma graduação porque era "bom em matemática". No terceiro ano da faculdade paguei disciplina de algorítimos, foi a única prova que gostei do elogio de ter tirado dez! Na pandemia usei o tempo livre para ESTUDAR, algo que era massante nos conteúdos de faculdade, mas que consegui fazer com empolgação aprendendo Python com o professor Guanabara no YouTube, e com o livro do Eric Matthes
 
-No quarto ano de engenharia civil eu tomei a decisão de ingressar de vez no mundo que eu já almejava há tempos. Não iniciei os estudos de programação em uma faculdade, mas comecei dentro de um ambiente com um comprometimento e atenção em ensinar que testemunhei durante um ano e meio dentro da Trybe. Onde pude aprender primeiro, todas essas stacks de tecnologia que estão a baixo.
+No quarto ano de engenharia civil eu tomei a decisão de ingressar de vez no mundo da tecnologia. Não iniciei os estudos de programação em uma faculdade, mas comecei dentro de um ambiente com um comprometimento e atenção em ensinar que testemunhei durante um ano e meio dentro da Trybe. Onde pude aprender primeiro, todas essas stacks de tecnologia que estão a baixo.
 
-### Linguagens    
+### Linguagens
+
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&"  logoColor=F7DF1E href="javascript">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&"  logoColor=white href="typescript">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&"  logoColor=blue href="python">
 
 ### Tecnologias
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&"  logoColor=white href="html5">
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"   href="css3">
 <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"   href="jest"> 
@@ -24,7 +25,7 @@ No quarto ano de engenharia civil eu tomei a decisão de ingressar de vez no mun
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&"  logoColor=white href="mysql">
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&"  logoColor=white href="nodedotjs">
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&"  logoColor=white href="Sequelize">
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&"  logoColor=white href="JSON"> 
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&" logoColor=white href="JSON"> 
 <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&"  logoColor=white href="Selenium">
 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&"  logoColor=white href="flask">
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&"  logoColor=green href="django">
