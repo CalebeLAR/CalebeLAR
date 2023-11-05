@@ -18,11 +18,11 @@ No quarto ano de engenharia civil eu tomei a decisão de ingressar de vez no mun
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=calebeLAR&show_icons=true&theme=merko"
-    media="(prefers-color-scheme: light)"
+    media="(prefers-color-scheme: dark)"
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=calebeLAR&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: merko)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: merko)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=calebeLAR&show_icons=true" width="43.5%"/>
 </picture> <picture>
@@ -32,7 +32,7 @@ No quarto ano de engenharia civil eu tomei a decisão de ingressar de vez no mun
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=calebeLAR&layout=compact&theme=merko"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: merko)"
+    media="(prefers-color-scheme: dark), (prefers-color-scheme: merko)"
   />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebeLAR&layout=compact&theme=merko" width="39%"/>
 </picture>
