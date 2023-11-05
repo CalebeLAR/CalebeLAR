@@ -1,8 +1,10 @@
-### OLÁ!!  
 
-## Bem vindo ao meu gitHub  
+### Sobre mim
+Morei até meus 23 anos no estado mais ao norte do brasil. Quando era mais jovem iniciei uma graduação porque era "bom em matematica". No terceiro ano da faculdade paguei disciplina de alogrítimos, foi a unica prova que gostei do elogio de ter tirardo dez!. Na pandemia usei o tempo livre pra ESTUDAR, algo que era massante nos contudos de faculdade, mas que eu consegui fazer com empolgação aprendendo Python com o professor guanabara no youtube, e lendo livros da ourayly.
 
-Linguagen  
+No quarto ano de engenharia civil eu tomei a decisão de ingressar de ves no mundo que eu ja almejava a tempos. Não iniciei numa faculdade, mas comecei dentro de um ambiente com um compromentemento e antenão em ensinar que eu acompanhei durante um ano e meio dentro da Trybe. Onde pude aprender primeiro, todas essas stecks de tecnologia que estão a baixo.
+
+Linguagens  
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&"  logoColor=F7DF1E href="javascript">
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&"  logoColor=white href="typescript">
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&"  logoColor=blue href="python">
@@ -16,7 +18,7 @@ Front-end
 <img src="https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=Mocha&"  logoColor=white href="Mocha">
 <img src="https://img.shields.io/badge/chai-A30701?style=for-the-badge&logo=chai&logoColor=white"   href="chai">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&"  logoColor=61DAFB href="react">
-<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&" logo=react-router&logoColor=white href="">
+<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&" logo=react-router logoColor=white href="react-router">
 <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&"  logoColor=white href="redux">
 
 Back-end  
