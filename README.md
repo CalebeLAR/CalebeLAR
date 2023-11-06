@@ -4,7 +4,7 @@
 🌱 Atualmente estou aprofundando meus aprendizados em react.js e typescript  
 👯 Estou procurando colaborar como desenvolvedor web full-stack Junior  
 🤔 Estou procurando ajudada com a manipulação de dados em formato xls    
-💬 Me pergunte onde eu estava a qualquer hora qualquer em qualquer dia entre 2022 a 2023 que eu te direi.  
+💬 Me pergunte onde eu estava a qualquer hora e em qualquer dia entre 2022 a 2023 que eu te direi.  
 📫 Como me contatar: ca6ele@gmail.com  
 
 ### Linguagens
