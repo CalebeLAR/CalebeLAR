@@ -1,7 +1,7 @@
 ### Olá! Bem vindo ao meu gitHub
 
 **CalebeLAR**  
-🌱 Atualmente estou me aprofundando em python e django
+🌱 Atualmente estou me aprofundando em python e django  
 👯 Estou procurando colaborar como desenvolvedor web full-stack Junior  
 🤔 Estou procurando ajuda com manipulação de dados em formato xls   
 💬 Me pergunte onde eu estava a qualquer hora em qualquer dia desde junho de 2022 que eu te direi.  
