@@ -1,11 +1,15 @@
 ### Olá! Bem vindo ao meu gitHub
 
 **CalebeLAR**  
-🌱 Atualmente estou aprofundando em python e react.js    
+🌱 Atualmente estou aprofundando meus aprendizados em react.js e typescript  
 👯 Estou procurando colaborar como desenvolvedor web full-stack Junior  
-🤔 Estou procurando alguém que me ajude a trabalhar com os dados de muitos arquivos em formato xls  
-💬 Me pergunte onde eu estava a qualquer hora em qualquer dia desde junho de 2022 que eu te direi.  
-📫 Como me contatar: ca6ele@gmail.com  
+🤔 Estou procurando ajudada com a manipulação de dados em formato xls   
+💬 Me pergunte onde eu estava a qualquer hora qualquer em qualquer dia entre 2022 a 2023 que eu te direi.  
+
+
+### Contato
+  <a href = "mailto:ca6ele@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/calebeLAR" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ### Linguagens
 
