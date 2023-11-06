@@ -3,7 +3,7 @@
 **CalebeLAR**  
 🌱 Atualmente estou me aprofundando em python e django
 👯 Estou procurando colaborar como desenvolvedor web full-stack Junior  
-🤔 Estou procurando ajudada com a manipulação de dados em formato xls   
+🤔 Estou procurando ajudada com a manipulação de dados em muitos arquivos no formato xls   
 💬 Me pergunte onde eu estava a qualquer hora qualquer em qualquer dia entre 2022 a 2023 que eu te direi.  
 
 
