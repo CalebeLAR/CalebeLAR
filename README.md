@@ -3,7 +3,7 @@
 **CalebeLAR**  
 🌱 Atualmente estou aprofundando em python e react.js    
 👯 Estou procurando colaborar como desenvolvedor web full-stack Junior  
-🤔 Estou procurando ajudada com a manipulação de dados em formato xls  
+🤔 Estou procurando alguém que me ajude a trabalhar com os dados de muitos arquivos em formato xls  
 💬 Me pergunte onde eu estava a qualquer hora em qualquer dia desde junho de 2022 que eu te direi.  
 📫 Como me contatar: ca6ele@gmail.com  
 
