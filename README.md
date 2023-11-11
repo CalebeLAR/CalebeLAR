@@ -40,7 +40,7 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=calebeLAR&layout=compact&theme=merko"
     media="(prefers-color-scheme: dark), (prefers-color-scheme: merko)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebeLAR&layout=compact&theme=merko" width="39%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=calebeLAR&layout=compact&theme=merko" width="33%"/>
 </picture>
 
 
