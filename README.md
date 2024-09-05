@@ -1,12 +1,5 @@
 ### Olá! Bem vindo ao meu gitHub
 
-**CalebeLAR**  
-🌱 Atualmente estou me aprofundando em python e django  
-👯 Estou procurando colaborar como desenvolvedor web full-stack Junior  
-🤔 Estou procurando ajuda com manipulação de dados em formato xls   
-💬 Me pergunte onde eu estava a qualquer hora em qualquer dia desde junho de 2022 que eu te direi  
-
-
 ### Contato
   <a href = "mailto:ca6ele@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/calebeLAR" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
