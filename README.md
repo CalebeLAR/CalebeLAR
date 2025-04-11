@@ -1,7 +1,19 @@
 ### Olá! Bem vindo ao meu gitHub
 
+### Sobre  
+
+Desenvolvedor fullstack, com experiência prática no desenvolvimento de 20 projetos de tecnologia, focado em Python, e noções básicas de criação de APIs HTTP/REST. Experiência em SQL para consultas, inserções, alterações e criação de tabelas, além de domínio em Git para controle de versão. Perfil comprometido, resiliente e dinâmico, com excelente comunicação oral e escrita. Habilidade para trabalho em equipe e atuação eficaz em projetos. Buscando crescimento profissional e novas oportunidades.
+
+Estou no segundo módulo do curso de TÉCNICO em Desenvolvimento de Sistemas no SENAC, aprofundando nos estudos de gerenciamento de projetos e lógica de programação.
+ 
+Estudei cibersegurança no SENAI, onde expandi meus conhecimentos em rede, hardware, riscos e compliance.
+ 
+Conclui o curso de desenvolvimento full-stack da TRYBE, curso onde tive o primeiro contato com a prática intensiva em desenvolvimento web, onde pude realizar mais de 30 projetos usando metodologias ágeis, desenvolvimento orientado a testes, levantamento de requisitos e mais de 15 tecnologias front e back end.
+ 
+Fique avontade para fazer code reviews e explorar meus repositórios
+
 ### Contato
-  <a href = "mailto:ca6ele@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
+  <a href = "mailto:contatocalebelar@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_blank"></a>
   <a href="https://www.linkedin.com/in/calebeLAR" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 ### Linguagens
